@@ -1,0 +1,138 @@
+/* HEADING MENU BAR */
+li {
+    display: inline;
+    float: left;
+    padding: 20px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding:8px;
+    text-decoration:none;
+    font-size: 150%;
+}
+
+a{
+    color: black;
+}
+
+li a:hover {
+    background-color: #115739;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+}
+
+.active {
+    background-color: #197e52;
+}
+
+.right {
+    float: right;
+}
+
+/* HOME PAGE */
+.firstlook{
+    padding: 150px;
+    text-align: center;
+    background: #115739;
+    color: white;
+    font-size: 30px;
+}
+
+/* TEXT FOR EC.HTML */
+h1 {
+    text-align: center;
+    padding: 60px 0 60px 0;
+    color: white;
+    background-color: #115739;
+}
+
+h2{
+    color: white;
+    background-color:#197e52;
+    width: 95%;
+    padding: 20px 0 20px 20px;
+
+}
+h2.specific {
+    color: white;
+    background-color:#115739;
+    width: 95%;
+    padding: 20px 0 20px 20px;
+
+}
+
+p{
+    padding: 0;
+}
+h3 {
+    padding: 0;
+    text-align: center;
+}
+img {
+    padding: inherit;
+    margin: auto;
+    text-align: center;
+    padding: 0 20px 0 20px;
+
+}
+
+img.lab1 {
+    padding: 0;
+    border: 5px solid #115739;
+    
+}
+.sectioned{
+    padding: 0 0 0 60px;
+}
+
+ul.painting_sec{
+    background-color: white;
+    padding: 0 20px 0 20px;
+    text-align: center;
+}
+
+ul.painting_sec li{
+    background-color: white;
+    padding: 0 10px 0 10px;
+}
+
+.painting {
+    padding: 40px 0 30px 0;
+    text-align: center;
+    /* border-right: 1px solid #000; */
+    
+}
+.painting_dif {
+    padding: 40px 10px 30px 85px;
+}
+.main_art {
+    text-align: center;
+    padding: 0;
+}
+
+.painting p{
+    text-align: center;
+    padding: 0 30px 0 20px;
+}
+
+
+/* index.html */
+
+.left {
+    float: left;
+}
+
+
+
+.side {
+    text-align: left;
+}
