@@ -3,7 +3,7 @@
     display: inline;
     float: right;
 } */
-
+/* 
 footer {
     background-color: #115739;
     padding: 20px;
@@ -21,4 +21,17 @@ footer {
   
   .footer-content a:hover {
     text-decoration: underline;
-  }
+  } */
+
+footer {
+  text-align: left;
+  padding: 10px 10px 10px 50px;
+  background-color: #115739;
+  color: white;
+  display: block;
+  bottom: 0;
+}
+
+a{
+  color: white;
+}
