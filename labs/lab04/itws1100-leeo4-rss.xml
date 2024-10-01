@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>RSS Title</title>
+    <link>https://time.com/</link>
+    <description>My top interests through TIME</description>
+    <!-- ARTICLE 1 -->
+    <item>
+      <title>Rock Climbing Is a Thrill. It’s Also Really Good for You</title>
+      <link>https://time.com/6256185/rock-climbing-health-benefits/</link>
+      <description>Elite rock climbers like Josh Larson and L. Renee Blount highlight the physical, mental, and social benefits of rock climbing, emphasizing its accessibility, therapeutic nature, and confidence-building challenges.</description>
+      <category>Health</category>
+      <pubDate>Thu, 16 Feb 2023 13:09:00 +0000</pubDate>
+    </item>
+    <!-- ARTICLE 2 -->
+    <item>
+      <title>We Underfunded Our Libraries Once. It Almost Lost Us World War II</title>
+      <link>https://time.com/7024056/libraries-funding-national-security-essay/</link>
+      <description>This piece highlights the vital role of libraries in national security, drawing on their historical significance during World War II and cautioning against modern budget cuts and over-dependence on digital resources.</description>
+      <category>History</category>
+      <pubDate>Wed, 25 Sep 2024 07:00:00 +0000</pubDate>
+    </item>
+    <!-- ARTICLE 3 -->
+    <item>
+      <title>How AI Could Transform Fast Fashion for the Better—and Worse</title>
+      <link>https://time.com/7022660/shein-ai-fast-fashion/</link>
+      <description>Explores how Shein and other fast-fashion companies are leveraging AI to optimize production and reduce waste, while raising concerns about environmental impact, labor exploitation, copyright infringement, and the risks of overconsumption fueled by AI-driven models.</description>
+      <category>Tech</category>
+      <pubDate>Fri, 20 Sep 2024 08:00:00 +0000</pubDate>
+    </item>
+    <!-- ARTICLE 4 -->
+    <item>
+      <title>Earth Is Temporarily Getting a Second ‘Moon’</title>
+      <link>https://time.com/7022535/earth-second-moon-temporary/</link>
+      <description>Starting next week, the moon, Earth’s closest celestial body, will be joined by a new neighbor: a second moon. From Sept. 29 until Nov. 25, astronomers calculate that 2024 PT5— which is what scientists think is an asteroid but have dubbed a “mini-moon”—will be looping around Earth. It will eventually break free of the planet’s gravitational orbit.</description>
+      <category>Science</category>
+      <pubDate>Wed, 18 Sep 2024 16:40:00 +0000</pubDate>
+    </item>
+    <!-- ARTICLE 5 -->
+    <item>
+      <title>How Aryna Sabalenka Won the U.S. Open After a Tough Year</title>
+      <link>https://time.com/7018984/aryna-sabalenka-wins-us-open-2024/</link>
+      <description>Aryna Sabalenka claimed her first U.S. Open title by defeating Jessica Pegula in straight sets, overcoming crowd pressure, personal struggles, and injuries to solidify her dominance as one of the world's top tennis players.</description>
+      <category>Sports</category>
+      <pubDate>Sat, 7 Sep 2024 20:16:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
