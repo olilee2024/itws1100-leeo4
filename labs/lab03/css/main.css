@@ -133,8 +133,14 @@ ul.painting_sec li{
 
 p{
     font-size: 20px;
+    padding: 0 100px 0 0;
+
 }
 
 .norm{
     color: white;
+}
+
+h2.last_pad {
+    margin: 0 0 500px 0;
 }
