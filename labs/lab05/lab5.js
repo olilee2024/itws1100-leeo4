@@ -69,12 +69,35 @@ function validate(formObj) {
 
 }
 
+//makes the text area focused on when clicked
+function clearPlaceholder(textarea){
+   if (textarea.value === "Please enter your comments"){
+      textarea.value = "";
+   }
+   textarea.style.backgroundColor = "yellow"
 
-function rewrite(){
-   var element = document.getElementById("comments");
-   element.innerHTML = "";
+}
+//restores the place horder text if empty and recolors it white
+function restorePlaceholder(textarea){
+   if(textarea.value === ""){
+      textarea.value = "Please enter your comments";
+   }
+   textarea.style.backgroundColor = "white"
+
 }
 
+//recolors when onfocus (or clicked on)
 function recolor(n){
-   n.style.backgroundColor = "red"
+   n.style.backgroundColor = "yellow"
+}
+//recolors it black to original color when clicked out
+function restoreColor(n){
+   n.style.backgroundColor = "white"
+}
+//alerts the document when clicked on the "click me" button
+function finalAlert(){
+   if (document.getElementById("firstName").value.trim() && document.getElementById("lastName").value.trim() && document.getElementById("pseudonym").value.trim()){
+      alert(document.getElementById("firstName").value.trim() + " " + document.getElementById("lastName").value.trim() + " is " + document.getElementById("pseudonym").value.trim());
+
+   }
 }
