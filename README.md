@@ -8,8 +8,11 @@ In my extracurriculars page, I included pictures of extracurriculars I believed 
 URL to website:
 leeo4rpi.eastus.cloudapp.azure.com/iit
 
+**I had permission from Professor Plotka to make my website public because I am applying to internships and need a public website.**
 Professor username: rplotka
 Professor password: Ilovedogs
 
 TA username: mojiso
 TA password: Ilovecats
+
+
