@@ -24,30 +24,29 @@ a.dif {
     float: left;
     overflow: hidden;
     padding: 20px;
-  }
-  .dropdowndif{
-    float: right;
-    overflow: hidden;
-    padding: 20px;
-  }
+}
+.dropdowndif{
+  float: right;
+  overflow: hidden;
+  padding: 20px;
+}
   
-  /* Dropdown button */
-  .dropdowndif .dropbtn {
-    font-size: 25px;
-    border: none;
-    outline: none;
-    color: white;
-    padding: 14px 16px;
-    background-color: inherit;
-    font-family: inherit; /* Important for vertical align on mobile phones */
-    margin: 0; /* Important for vertical align on mobile phones */
-    
-  }
+/* Dropdown button */
+.dropdowndif .dropbtn {
+  font-size: 25px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
   
-  /* Add a red background color to navbar links on hover */
-  .navbar a:hover, .dropdowndif:hover .dropbtn {
-    background-color: #197e52;
-  }
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdowndif:hover .dropbtn {
+  background-color: #197e52;
+}
   
   /* Dropdown content (hidden by default) */
   .dropdown-content {

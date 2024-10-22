@@ -1,0 +1,34 @@
+/* Lab 6 CSS File */
+
+#bodyBlock {
+  width: 700px;
+  margin: auto;
+}
+#showHideBlock {
+  padding: 1em 1em 0 1em;
+  border: 1px solid black;
+}
+#showHideBlock p {
+  margin: 0 0 1em 0; 
+}
+#showHideLinks {
+  margin-bottom: 1em; 
+}
+#toggleText {
+  display: block;
+  float: right;
+  color: black;
+}
+#hideText {
+  color: black;
+}
+#showText {
+  color: black;
+}
+h1:hover {
+  cursor: pointer; 
+}
+.red {
+  color: red;
+  background-color: transparent;
+}

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <title>ITWS1100 Lab 6 : jQuery</title>
+   <meta charset="UTF-8" />
+   <meta viewport="width=device-width, initial-scale=1.0" />
+   <script type="text/javascript" src="resources/jquery-3.6.1.min.js">
+   </script>
+   <script type="text/javascript" src="lab6.js"></script>
+   <link rel="stylesheet" href="lab6.css" type="text/css" />
+
+   <link href = "../lab03/css/header.css" rel = "stylesheet" type = "text/css">
+   <link href = "../lab03/css/main.css" rel = "stylesheet" type = "text/css">
+   <link href = "../lab03/css/footer.css" rel = "stylesheet" type = "text/css">
+</head>
+
+<body>
+   <!-- HEADING -->
+   <div class="navbar">
+      <div class = "dropdown"><a href="../../index.html">olivia lee</a></div>
+      <div class = "dropdowndif"><a href="../lab03/ec.html" class = "dif_drop">extracurriculars</a></div>
+      <div class="dropdowndif">
+        <button class="dropbtn"><a href = "../projects.html" class = "dif">projects</a>
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="../lab01/lab01.html">lab 01</a>
+          <a href="../lab02/leeo4-olivialee-resume.html">lab 02</a>
+          <a href="../lab03/ec.html">lab 03</a>
+          <a href="../lab04/lab04.html">lab 04</a>
+          <a href="../lab05/lab5.html">lab 05</a>
+          <a href="#">lab 06</a>
+
+
+        </div>
+      </div>
+  </div>
+  <div>
+      <h1>Lab 06: jQuery</h1>
+      <div class = "sectioned">
+         <p>In this lab, I used jQuery to do specific actions:</p>
+         <ul>
+            <li>When user presses <em>"Your Name"</em>, the text changes to my name, <em>"Olivia Lee"</em></li>
+            <li>When user presses any list item, whether original list item or an added list item, the item turns red</li>
+            <li>If the text is red and the user clicks on it, then it turns back to black text</li>
+            <li>"Hide text" hides the paragraph and "Show Text" shows the paragraph</li>
+            <li>"Toggle text" both hides and shows the text</li>
+         </ul>
+         <p>Click around and test the actions below!</p>
+     </div>
+  </div>
+
+   <div id="bodyBlock">
+      <p>
+         <button type="button" id="labButton">Lab 6 Button</button>
+      </p>
+      <p>
+         <button type="button" id="AddListItem">Add list item</button>
+      </p>
+      <h1>Lab 6: <em class="myName">Your Name</em></h1>
+
+      <ul id="labList">
+         <li>List item 1</li>
+         <li>List item 2</li>
+         <li>List item 3</li>
+         <li>List item 4</li>
+         <li>List item 5</li>
+      </ul>
+
+      <div id="showHideBlock">
+         <div id="showHideLinks">
+            <a href="#" id="toggleText">Toggle Text</a>
+            <a href="#" id="hideText">Hide Text</a> |
+            <a href="#" id="showText">Show Text</a>
+         </div>
+         <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam
+            ullamcorper metus sit amet velit ultrices quis congue nisl mollis.
+            Proin nec orci eget nisl vehicula elementum. Vestibulum ante ipsum
+            primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+            Phasellus lacinia dui sed diam tempor volutpat. Aliquam rutrum, urna
+            vel dictum posuere, lacus magna imperdiet ligula, a imperdiet tellus
+            sapien ac tellus. Sed bibendum adipiscing euismod. Phasellus sed
+            adipiscing libero. Donec ut arcu tortor, non fringilla magna.
+            Suspendisse vel ante arcu. Quisque ut dolor eget sem varius rhoncus
+            fringilla ac ipsum. Nullam eget erat augue, consequat laoreet tellus.
+            In et aliquet neque. Maecenas in erat turpis, id porta lectus. Sed
+            vulputate, turpis vel pharetra tincidunt, quam nisi lacinia massa,
+            sit amet hendrerit dolor mauris sed quam. Cras et eros sed nulla
+            posuere sodales.
+         </p>
+         <p>
+            Nunc vel lectus a mi suscipit cursus vitae vel metus. Ut vitae mauris
+            sed magna malesuada facilisis quis at urna. Fusce sit amet ullamcorper
+            lectus. Proin interdum orci et est cursus consectetur convallis mauris
+            placerat. Duis bibendum felis vel sapien auctor consequat. Fusce
+            rutrum aliquet eros, interdum egestas neque ultricies quis. Aliquam
+            erat volutpat. Nulla facilisi. Morbi pharetra hendrerit mattis.
+            Praesent vel gravida odio. Vestibulum ultricies ante eu lorem
+            tincidunt eu facilisis odio fermentum.
+         </p>
+      </div>
+
+   </div>
+</body>
+<footer>
+   <p>Olivia Lee<br>
+   LinkedIn: <a href="https://www.linkedin.com/in/olivia-lee-0b00b3269/">Olivia Lee</a><br>
+   School Amail: <a href="mailto:leeo4@rpi.edu">leeo4@rpi.edu</a><br>
+   Personal Email: <a href="mailto:olilee2024@gmail.com">olilee2024@gmail.com</a><br>
+   Feel free to reach out!</p>
+
+</footer>
+
+</html>
