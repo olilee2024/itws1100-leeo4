@@ -138,3 +138,25 @@ p{
 h2.last_pad {
     margin: 0 0 500px 0;
 }
+
+
+
+.lab-description {
+    display: none; /* Hide descriptions initially */
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.lab-toggle {
+    cursor: pointer;
+    caret-color: white;
+    display: flex;
+    align-items: center;
+    margin: 10;
+}
+
+.lab-toggle .arrow {
+    margin-right: 10px;
+    transition: transform 0.2s;
+}
