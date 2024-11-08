@@ -1,0 +1,44 @@
+{
+   "menuItems": [
+      {
+         "name": "Lab 01: Setting up Azure and GitHub",
+         "link": "../lab01/lab01.html", 
+         "description": "In lab 1, I created an account on <strong>Azure</strong> and connected my main website to <strong>GitHub</strong>, inviting collaborators as well."
+      },
+      {
+         "name": "Lab 02: Website Resume",
+         "link": "../lab02/leeo4-olivialee-resume.html",
+         "description": "In lab 2, I used <strong>HTML</strong> and <strong>CSS</strong> to construct my resume."
+      },
+      {
+         "name": "Lab 03: Creating Our Own Website & Information Architecture",
+         "link": "../lab02/leeo4-olivialee-resume.html",
+         "description": "In lab 3, I developed the <strong>HTML</strong> and <strong>CSS</strong> files for all main pages such as the landing page, projects page, and extracurriculars page. Additionally, I created an <em>Information Architecture</em> format for this personal website to keep it organized."
+      },
+      {
+         "name": "Lab 04: RSS and Atom Feeds",
+         "link": "../lab04/lab04.html",
+         "description": "In lab 4, I created an <strong>RSS feed</strong> and <strong>Atom feed</strong> based on five articles from TIME Articles."
+      },
+      {
+         "name": "Lab 05: Javascript",
+         "link": "../lab05/lab5.html",
+         "description": "In lab 5, I utilized <strong>JavaScript</strong> to create a form for user's to fill out their information, stylizing and following through with specific commands. "
+      },
+      {
+         "name": "Lab 06: jQuery",
+         "link": "../lab06/lab6.html",
+         "description": "In lab 6, I utilized <strong>jQuery</strong> to stylize specific actions, including toggle text, adding list items, and recoloring list items when clicked on."
+      },
+      {
+         "name": "Lab 07: Project Mockups",
+         "link": "../lab07/lab7.html",
+         "description": "In lab 7, my group and I created a project called <strong>ScheduleSync</strong> and created an <strong>IA format</strong> and <strong>wireframes</strong> before our development."
+      },
+      {
+         "name": "Lab 08: Utilizing AJAX",
+         "link": "#",
+         "description": "In lab 8, I had to reorganize this project landing page to create a more efficient code. I stored the lab names, links, and descriptions in a <strong>JSON</strong> file then called that JSON file to a <strong>JavaScript</strong> file where I used <strong>AJAX</strong>."
+      }
+   ]
+}
