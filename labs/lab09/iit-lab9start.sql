@@ -13,6 +13,13 @@ CREATE TABLE `actors` (
    `dob` date NULL
    PRIMARY KEY (`actorid`)
 );
+-- CREATE TABLE `` (
+--    `actorid` int(10) unsigned NOT NULL AUTO_INCREMENT,
+--    `last_name` varchar(40) NULL,
+--    `first_names` varchar(40) NULL,
+--    `dob` date NULL
+--    PRIMARY KEY (`actorid`)
+-- );
 -- insert data into the tables
 INSERT INTO movies
 VALUES (1, "Elizabeth", "1998"),
