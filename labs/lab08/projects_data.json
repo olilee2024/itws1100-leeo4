@@ -43,7 +43,12 @@
       {
          "name": "Lab 09: PHP & MySQL",
          "link": "../lab09/lab9.html",
-         "description": "In lab 9, I had to use <strong>PHP</strong> and <strong>MySQL</strong> to organize movies and actors onto a table."
-      }
+         "description": "In lab 9, I used <strong>PHP</strong> and <strong>MySQL</strong> to create tables with data on movies and actors."
+      },
+      {
+         "name": "Lab 10: Moving Our Servers to Production",
+         "link": "../lab10/lab10.html",
+         "description": "In lab 10, I finalized our whole website to make it public!"
+      }   
    ]
 }
