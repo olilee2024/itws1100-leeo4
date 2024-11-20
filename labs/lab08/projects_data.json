@@ -39,6 +39,16 @@
          "name": "Lab 08: Utilizing AJAX",
          "link": "#",
          "description": "In lab 8, I had to reorganize this project landing page to create a more efficient code. I stored the lab names, links, and descriptions in a <strong>JSON</strong> file then called that JSON file to a <strong>JavaScript</strong> file where I used <strong>AJAX</strong>."
-      }
+      },
+      {
+         "name": "Lab 09: PHP & MySQL",
+         "link": "../lab09/lab9.html",
+         "description": "In lab 9, I used <strong>PHP</strong> and <strong>MySQL</strong> to create tables with data on movies and actors."
+      },
+      {
+         "name": "Lab 10: Moving Our Servers to Production",
+         "link": "../lab10/lab10.html",
+         "description": "In lab 10, I finalized our whole website to make it public!"
+      }   
    ]
 }
