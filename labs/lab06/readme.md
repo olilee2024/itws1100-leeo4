@@ -46,12 +46,10 @@ a. make sure to include links to your homepage, your lab page, and your github r
 
 URL to website:
 leeo4rpi.eastus.cloudapp.azure.com/iit
-URL to lab:
 
 URL to github repo:
 https://github.com/olilee2024/itws1100-leeo4
 
-**I had permission from Professor Plotka to make my website public because I am applying to internships and need a public website.**
 Professor username: rplotka
 Professor password: Ilovedogs
 

@@ -1,4 +1,4 @@
-# itws1100-leeo4
+In lab 9, I used PHP and MySQL to create a list of actors and movies. In the actors and movies part, you can add new actors or movies to the database and delete them from the database. 
 
 URL to website:
 leeo4rpi.eastus.cloudapp.azure.com/iit

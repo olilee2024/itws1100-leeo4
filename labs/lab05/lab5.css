@@ -2,8 +2,6 @@
    Did you notice that CSS comments are the same as 
    multi-line javascript comments? */
 
-body {
-}
 #bodyBlock {
    width: 700px;
    margin: auto;

@@ -10,7 +10,11 @@ Article 4: https://time.com/7022535/earth-second-moon-temporary/
 Article 5: https://time.com/7018984/aryna-sabalenka-wins-us-open-2024/
 
 
-Link to home page: leeo4rpi.eastus.cloudapp.azure.com/iit
+URL to website:
+leeo4rpi.eastus.cloudapp.azure.com/iit
+
+Github Repo:
+https://github.com/olilee2024/itws1100-leeo4.git
 
 Professor username: rplotka
 Professor password: Ilovedogs
