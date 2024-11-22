@@ -25,3 +25,15 @@ You can open the appropriate folder by clicking the link in GitHub Desktop for F
 5. start your Azure instances
 6. pull your changes down to your web servers
 7. Test your resume in FQDN/iit/labs/lab02 
+
+URL to website:
+leeo4rpi.eastus.cloudapp.azure.com/iit
+
+Github Repo:
+https://github.com/olilee2024/itws1100-leeo4.git
+
+Professor username: rplotka
+Professor password: Ilovedogs
+
+TA username: mojiso
+TA password: Ilovecats
