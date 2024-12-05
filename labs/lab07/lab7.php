@@ -8,13 +8,14 @@
         <title>Olivia Lee</title> 
     </head>
 
-    <!-- HEADING/ NAVIGATION BAR -->
-    <?php
-    // Include the header
-    include '../../resources/header.inc.php';
-    ?>
+   
 
     <body>
+         <!-- HEADING/ NAVIGATION BAR -->
+        <?php
+        // Include the header
+        include '../../resources/navbar.inc.php';
+        ?>
         <div class = "sectioned">
             <!-- DESCRIPTION -->
             <h1>Lab 07: Project Mockups</h1>
