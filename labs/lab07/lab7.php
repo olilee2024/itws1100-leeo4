@@ -11,7 +11,7 @@
     <!-- HEADING/ NAVIGATION BAR -->
     <?php
     // Include the header
-    include 'header.php';
+    include '../../resources/header.inc.php';
     ?>
 
     <body>
