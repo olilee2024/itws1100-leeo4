@@ -3,6 +3,9 @@
             <div class = "dropdown"><a href="../../index.html">olivia lee</a></div>
             <div class = "dropdowndif"><a href="./ec.html" class = "dif_drop">extracurriculars</a></div>
             <div class="dropdowndif">
+            <button class="dropbtn"><a href = "./labs/lab08/projects.html" class = "dif">projects</a>
+                <i class="fa fa-caret-down"></i>
+              </button>
               <div class="dropdown-content">
                 <a href="../lab01/lab01.html">lab 01</a>
                 <a href="../lab02/leeo4-olivialee-resume.html">lab 02</a>
