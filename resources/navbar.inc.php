@@ -17,7 +17,7 @@
                 <a href="./labs/lab08/projects.html">lab 08</a>
                 <a href="./labs/lab09/lab9.html">lab 09</a>
                 <a href="./labs/lab10/lab10.html">lab 10</a>
-                <a href="./labs/group_project.html">final projects</a>
+                <a href="./labs/group_project.html">final project</a>
 
               </div>
             </div>
