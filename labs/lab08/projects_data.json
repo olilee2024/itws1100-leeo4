@@ -49,6 +49,11 @@
          "name": "Lab 10: Moving Our Servers to Production",
          "link": "../lab10/lab10.html",
          "description": "In lab 10, I finalized our whole website to make it public!"
+      },
+      {
+         "name": "Final Project: ScheduleSync",
+         "link": "../group_project.html",
+         "description": "In this group final project, we created a website that allows college students to connect with other students and compare schedules easily and efficiently."
       }   
    ]
 }
