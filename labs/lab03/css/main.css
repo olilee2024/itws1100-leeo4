@@ -164,3 +164,7 @@ h2.last_pad {
 .color {
     color: black;
 }
+
+.space {
+    margin: 10px 0 0 0;
+}
