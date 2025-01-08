@@ -30,7 +30,7 @@ include 'navbar.php';
             <div><h3 class = "side">I am from New Jersey in Bergen County (conveniently 30 minutes from New York City!). I love to cook with my family and rock climb with my friends in my free time.</h3></div>
         </div>
         <div>
-            <h2 class = "space" a href = "login.php">Login to my website!</h2>
+            <h2 class = "space"><a href = "login.php">Login to my website!</a></h2>
         </div>
 
     </body>
