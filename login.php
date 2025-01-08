@@ -13,7 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $stmt->store_result();
     
     if ($stmt->num_rows > 0) {
-        $stmt->bind_result($user_id, $user_name, $user_pwd, $user_type);
+        $stmt->bind_result($user_id, $user_first_name, $user_name, $user_pwd, $user_type);
         $stmt->fetch();
         
         // Validate password

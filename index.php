@@ -30,7 +30,18 @@ include 'navbar.php';
             <div><h3 class = "side">I am from New Jersey in Bergen County (conveniently 30 minutes from New York City!). I love to cook with my family and rock climb with my friends in my free time.</h3></div>
         </div>
         <div>
-            <h2 class = "space"><a href = "login.php">Login to my website!</a></h2>
+            <?php
+            if (isset($_SESSION['user_name'])) {
+                // User is logged in, display a welcome message and logout button
+                echo "<h2 class='space'>Welcome, " . htmlspecialchars($_SESSION['user_first_name']) . "!</h2>";
+                echo "<form method='POST' action='logout.php'>
+                        <button type='submit'>Logout</button>
+                      </form>";
+            } else {
+                // User is not logged in, display the login link
+                echo "<h2 class='space'><a href='login.php'>Login to my website!</a></h2>";
+            }
+            ?>
         </div>
 
     </body>
