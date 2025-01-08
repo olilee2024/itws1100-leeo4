@@ -15,7 +15,7 @@
   <!-- HEADING/ NAVIGATION BAR -->
   <header>
     <div class="navbar">
-      <div class = "dropdown"><a href="../../index.html">olivia lee</a></div>
+      <div class = "dropdown"><a href="../../index.php">olivia lee</a></div>
       <div class = "dropdowndif"><a href="../lab03/ec.html" class = "dif_drop">extracurriculars</a></div>
       <div class="dropdowndif">
         <button class="dropbtn">projects
@@ -32,6 +32,7 @@
           <a href="#">lab 08</a>
           <a href="../lab09/lab9.html">lab 09</a>
           <a href="../lab10/lab10.html">lab 10</a>
+          <a href="../group_project.html">final project</a>
         </div>
       </div>  
     </div>  
